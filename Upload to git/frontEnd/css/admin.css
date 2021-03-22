@@ -1,0 +1,23 @@
+body{
+    background-color: lemonchiffon;
+}
+
+button{
+    background-color:rgb(127, 165, 235);
+    color:rgb(33, 33, 33);
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.back{
+    
+    background-color:rgb(127, 235, 185);
+ }
+    

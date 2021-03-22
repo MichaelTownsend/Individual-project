@@ -1,0 +1,62 @@
+body{
+   background-color: lemonchiffon;
+}
+
+button{
+   background-color:rgb(127, 165, 235);
+    color:rgb(33, 33, 33);
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+   }
+
+.correct{
+    border: 6px solid rgb(159, 212, 186);
+    width: 50%;
+    
+}
+.wrong{
+   border: 6px solid rgb(231, 24, 69); 
+   width: 50%;
+}
+.check{
+   border: 6px solid rgb(24, 90, 231); 
+   width: 50%;
+}
+.question{
+   border: 6px solid rgb(8, 39, 65);
+   width: 50%;
+   margin: auto;
+}
+.title{
+   background-color: black;
+}
+.white{
+   color: white;
+   text-align: center;
+}
+#submit{
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+}
+#finalScore{
+   color: red;
+   text-align: center;
+}
+
+.back{
+   position: absolute;
+   bottom: 10%;
+}
